@@ -5,6 +5,8 @@
 [![Code Climate](https://img.shields.io/codeclimate/github/pragmarb/pragma-devise.svg?maxAge=3600&style=flat-square)](https://codeclimate.com/github/pragmarb/pragma-devise)
 [![Coveralls](https://img.shields.io/coveralls/pragmarb/pragma-devise.svg?maxAge=3600&style=flat-square)](https://coveralls.io/github/pragmarb/pragma-devise)
 
+**DEPRECATED: Pragma::Devise has been deprecated in favor of more lightweight authentication schemes.**
+
 Provides [Devise](https://github.com/plataformatec/devise) integration with
 the [Pragma](https://github.com/pragmarb/pragma) architecture.
 
